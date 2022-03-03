@@ -2,7 +2,7 @@
 
 ### Lesson
 
-### 1.Linear Regression With Time Series: [Tutorial]() [Exercise]()
+### 1.Linear Regression With Time Series: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Time-Series/blob/main/LinearRegressionWithTimeSeries.ipynb) [Exercise](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Time-Series/blob/main/exercise-linear-regression-with-time-series.ipynb)
 
 ### 2. Trend: [Tutorial]() [Exercise]()
 
