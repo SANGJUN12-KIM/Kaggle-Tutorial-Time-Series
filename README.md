@@ -6,7 +6,7 @@
 
 ### 2. Trend: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Time-Series/blob/main/Trend.ipynb) [Exercise](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Time-Series/blob/main/exercise-trend.ipynb)
 
-~### 3. Seasonality: [Tutorial]() [Exercise]()~
+### 3. Seasonality: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Time-Series/blob/main/Seasonality.ipynb) [Exercise]()
 
 ~### 4. Time Series as Features: [Tutorial]() [Exercise]()~
 
