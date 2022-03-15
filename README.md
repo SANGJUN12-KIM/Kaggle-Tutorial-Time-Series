@@ -8,7 +8,7 @@
 
 ### 3. Seasonality: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Time-Series/blob/main/Seasonality.ipynb) [Exercise]()
 
-~### 4. Time Series as Features: [Tutorial]() [Exercise]()~
+### 4. Time Series as Features: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Time-Series/blob/main/Time-Series-as-Features.ipynb) ~[Exercise]()~
 
 ~### 5. Hybrid Models: [Tutorial]() [Exercise]()~
 
