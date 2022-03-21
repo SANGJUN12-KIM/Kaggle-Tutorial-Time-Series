@@ -10,7 +10,7 @@
 
 ### 4. Time Series as Features: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Time-Series/blob/main/Time-Series-as-Features.ipynb) [Exercise](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Time-Series/blob/main/exercise-time-series-as-features.ipynb)
 
-### 5. Hybrid Models: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Time-Series/blob/main/Hybrid-Models.ipynb) [Exercise]()
+### 5. Hybrid Models: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Time-Series/blob/main/Hybrid-Models.ipynb) ~[Exercise]()~
 
-~### 6. Forecasting With Machine Learning: [Tutorial]() [Exercise]()~
+### 6. Forecasting With Machine Learning: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Time-Series/blob/main/Forecasting-With-Machine-Learning.ipynb) ~[Exercise]()~
 
